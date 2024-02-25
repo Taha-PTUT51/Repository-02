@@ -1,3 +1,4 @@
+cout << "I have added my name, roll number, ICS subjects, 1st semester subjects and 2nd semester subjects in this repo." << endl;
 cout << "My name is: Muhammad Taha Feroz" << endl;
 cout << "My roll no. is: 23-st-051" << endl;
 cout << "My ICS subjects are:" << endl;
