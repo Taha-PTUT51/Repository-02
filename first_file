@@ -1,2 +1,17 @@
-cout<<"My name is: Muhammad Taha Feroz"<<endl;
-cout<<"My roll no. is: 23-st-051"<<endl;
+cout << "My name is: Muhammad Taha Feroz" << endl;
+cout << "My roll no. is: 23-st-051" << endl;
+cout << "My ICS subjects are:" << endl;
+cout << "Math, English, Computer, Physics, Urdu, Islamyat." << endl;
+cout << "My First Semester subjects are:" << endl;
+cout << "OHSM, Applied Physics, Quantitative Reasining, ICT, C Programing, 
+Islamic Studies, Applied Physics, LAB ICT LAB, C Programing LAB." << endl;
+cout << "My Second Semester subjects are:" << endl;
+cout << "1. Probabillity and statistics" << endl;
+cout << "2. SDLC" << endl;
+cout << "3. OOP" << endl;
+cout << "4. SCM" << endl;
+cout << "5. Holy Quran Translation" << endl;
+cout << "6. SCM (LAB)" << endl;
+cout << "7. Discrete Structures" << endl;
+cout << "8. OOP (LAB)" << endl;
+cout << "9. Functional English" << endl;
