@@ -1,2 +1,4 @@
-cout<<"My name is: Muhammad Taha Feroz"<<endl;
-cout<<"My roll no. is: 23-st-051"<<endl;
+cout << "My name is: Muhammad Taha Feroz" << endl;
+cout << "My roll no. is: 23-st-051" << endl;
+cout << "My ICS subjects are:" << endl;
+cout << "Math, English, Computer, Physics, Urdu, Islamyat." << endl;
