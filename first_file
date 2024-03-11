@@ -16,3 +16,5 @@ cout << "6. SCM (LAB)" << endl;
 cout << "7. Discrete Structures" << endl;
 cout << "8. OOP (LAB)" << endl;
 cout << "9. Functional English" << endl;
+cout <<" My name is Zaid:">>endl;
+cout <<" My roll no is 23-st-041:"<<endl;
